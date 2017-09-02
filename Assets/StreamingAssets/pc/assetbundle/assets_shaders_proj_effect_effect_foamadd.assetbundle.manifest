@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1127183947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf661fe7d1e0ce5f99a82ec50c61c492
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Proj/Effect/effect_Foamadd.shader
+Dependencies: []

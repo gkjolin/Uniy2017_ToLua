@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 647567045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 379f47a6ab6ad0d27d4ab798abf0e888
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77101420b6044f0d140fe798e262b4a0
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 152
+  Script: {instanceID: 0}
+Assets:
+- Assets/Movie/Idle0.mp4
+Dependencies: []

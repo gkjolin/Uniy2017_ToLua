@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3834899399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92d9be95a49d8285eaefd333e557da9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/TestScene.unity
+Dependencies:
+- E:/tempCode/FireMen_2_2017/Assets/StreamingAssets/pc/assetbundle/assets_prefabs_modle_guyongbing.assetbundle

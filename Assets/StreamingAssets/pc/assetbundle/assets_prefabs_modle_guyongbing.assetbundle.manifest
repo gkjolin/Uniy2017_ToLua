@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1556823075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55e31add9dccd3abdc2817d73f85ed34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a70f70d2dfdba6ad868b392e0c85f19d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c611b9e19c7bbf42a9e5c3189ad95b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/modle/GuYongBing.prefab
+Dependencies: []

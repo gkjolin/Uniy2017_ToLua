@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: e91dc4fcf5c00694c822a1e580620070
+timeCreated: 1491898087
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: eyes
+    100002: group7
+    100004: group9
+    100006: low01
+    100008: low02
+    100010: low03
+    100012: low04
+    100014: //RootNode
+    100016: pPlane2
+    100018: pPlane2 1
+    100020: pPlane3
+    100022: pPlane3 1
+    100024: pPlane4
+    100026: pPlane4 1
+    100028: pPlane5
+    100030: pPlane5 1
+    100032: pPlane6
+    100034: pPlane6 1
+    100036: pPlane7
+    100038: pPlane7 1
+    100040: pPlane8
+    100042: pPlane8 1
+    100044: pPlane9
+    100046: pPlane9 1
+    100048: group8
+    100050: pPlane10
+    100052: pPlane10 1
+    100054: pPlane11
+    100056: pPlane11 1
+    100058: pPlane12
+    100060: pPlane13
+    100062: pPlane14
+    100064: pPlane15
+    100066: pPlane16
+    100068: pPlane12 1
+    100070: pPlane13 1
+    100072: pPlane14 1
+    100074: pPlane15 1
+    100076: pPlane16 1
+    100078: group10
+    100080: pPlane10 2
+    100082: pPlane10 3
+    100084: pPlane11 2
+    100086: pPlane11 3
+    100088: pPlane12 2
+    100090: pPlane12 3
+    100092: pPlane13 2
+    100094: pPlane13 3
+    100096: pPlane14 2
+    100098: pPlane14 3
+    100100: pPlane15 2
+    100102: pPlane15 3
+    100104: pPlane16 2
+    100106: pPlane16 3
+    100108: pPlane2 2
+    100110: pPlane2 3
+    100112: pPlane3 2
+    100114: pPlane3 3
+    100116: pPlane4 2
+    100118: pPlane4 3
+    100120: pPlane5 2
+    100122: pPlane5 3
+    100124: pPlane6 2
+    100126: pPlane6 3
+    100128: pPlane7 2
+    100130: pPlane7 3
+    100132: pPlane8 2
+    100134: pPlane8 3
+    100136: pPlane9 2
+    100138: pPlane9 3
+    400000: eyes
+    400002: group7
+    400004: group9
+    400006: low01
+    400008: low02
+    400010: low03
+    400012: low04
+    400014: //RootNode
+    400016: pPlane2
+    400018: pPlane2 1
+    400020: pPlane3
+    400022: pPlane3 1
+    400024: pPlane4
+    400026: pPlane4 1
+    400028: pPlane5
+    400030: pPlane5 1
+    400032: pPlane6
+    400034: pPlane6 1
+    400036: pPlane7
+    400038: pPlane7 1
+    400040: pPlane8
+    400042: pPlane8 1
+    400044: pPlane9
+    400046: pPlane9 1
+    400048: group8
+    400050: pPlane10
+    400052: pPlane10 1
+    400054: pPlane11
+    400056: pPlane11 1
+    400058: pPlane12
+    400060: pPlane13
+    400062: pPlane14
+    400064: pPlane15
+    400066: pPlane16
+    400068: pPlane12 1
+    400070: pPlane13 1
+    400072: pPlane14 1
+    400074: pPlane15 1
+    400076: pPlane16 1
+    400078: group10
+    400080: pPlane10 2
+    400082: pPlane10 3
+    400084: pPlane11 2
+    400086: pPlane11 3
+    400088: pPlane12 2
+    400090: pPlane12 3
+    400092: pPlane13 2
+    400094: pPlane13 3
+    400096: pPlane14 2
+    400098: pPlane14 3
+    400100: pPlane15 2
+    400102: pPlane15 3
+    400104: pPlane16 2
+    400106: pPlane16 3
+    400108: pPlane2 2
+    400110: pPlane2 3
+    400112: pPlane3 2
+    400114: pPlane3 3
+    400116: pPlane4 2
+    400118: pPlane4 3
+    400120: pPlane5 2
+    400122: pPlane5 3
+    400124: pPlane6 2
+    400126: pPlane6 3
+    400128: pPlane7 2
+    400130: pPlane7 3
+    400132: pPlane8 2
+    400134: pPlane8 3
+    400136: pPlane9 2
+    400138: pPlane9 3
+    2300000: eyes
+    2300002: low01
+    2300004: low02
+    2300006: low03
+    2300008: low04
+    2300010: pPlane2
+    2300012: pPlane2 1
+    2300014: pPlane3
+    2300016: pPlane3 1
+    2300018: pPlane4
+    2300020: pPlane4 1
+    2300022: pPlane5
+    2300024: pPlane5 1
+    2300026: pPlane6
+    2300028: pPlane6 1
+    2300030: pPlane7
+    2300032: pPlane7 1
+    2300034: pPlane8
+    2300036: pPlane8 1
+    2300038: pPlane9
+    2300040: pPlane9 1
+    2300042: pPlane10
+    2300044: pPlane10 1
+    2300046: pPlane11
+    2300048: pPlane11 1
+    2300050: pPlane12
+    2300052: pPlane13
+    2300054: pPlane14
+    2300056: pPlane15
+    2300058: pPlane16
+    2300060: pPlane12 1
+    2300062: pPlane13 1
+    2300064: pPlane14 1
+    2300066: pPlane15 1
+    2300068: pPlane16 1
+    2300070: pPlane10 2
+    2300072: pPlane10 3
+    2300074: pPlane11 2
+    2300076: pPlane11 3
+    2300078: pPlane12 2
+    2300080: pPlane12 3
+    2300082: pPlane13 2
+    2300084: pPlane13 3
+    2300086: pPlane14 2
+    2300088: pPlane14 3
+    2300090: pPlane15 2
+    2300092: pPlane15 3
+    2300094: pPlane16 2
+    2300096: pPlane16 3
+    2300098: pPlane2 2
+    2300100: pPlane2 3
+    2300102: pPlane3 2
+    2300104: pPlane3 3
+    2300106: pPlane4 2
+    2300108: pPlane4 3
+    2300110: pPlane5 2
+    2300112: pPlane5 3
+    2300114: pPlane6 2
+    2300116: pPlane6 3
+    2300118: pPlane7 2
+    2300120: pPlane7 3
+    2300122: pPlane8 2
+    2300124: pPlane8 3
+    2300126: pPlane9 2
+    2300128: pPlane9 3
+    3300000: eyes
+    3300002: low01
+    3300004: low02
+    3300006: low03
+    3300008: low04
+    3300010: pPlane2
+    3300012: pPlane2 1
+    3300014: pPlane3
+    3300016: pPlane3 1
+    3300018: pPlane4
+    3300020: pPlane4 1
+    3300022: pPlane5
+    3300024: pPlane5 1
+    3300026: pPlane6
+    3300028: pPlane6 1
+    3300030: pPlane7
+    3300032: pPlane7 1
+    3300034: pPlane8
+    3300036: pPlane8 1
+    3300038: pPlane9
+    3300040: pPlane9 1
+    3300042: pPlane10
+    3300044: pPlane10 1
+    3300046: pPlane11
+    3300048: pPlane11 1
+    3300050: pPlane12
+    3300052: pPlane13
+    3300054: pPlane14
+    3300056: pPlane15
+    3300058: pPlane16
+    3300060: pPlane12 1
+    3300062: pPlane13 1
+    3300064: pPlane14 1
+    3300066: pPlane15 1
+    3300068: pPlane16 1
+    3300070: pPlane10 2
+    3300072: pPlane10 3
+    3300074: pPlane11 2
+    3300076: pPlane11 3
+    3300078: pPlane12 2
+    3300080: pPlane12 3
+    3300082: pPlane13 2
+    3300084: pPlane13 3
+    3300086: pPlane14 2
+    3300088: pPlane14 3
+    3300090: pPlane15 2
+    3300092: pPlane15 3
+    3300094: pPlane16 2
+    3300096: pPlane16 3
+    3300098: pPlane2 2
+    3300100: pPlane2 3
+    3300102: pPlane3 2
+    3300104: pPlane3 3
+    3300106: pPlane4 2
+    3300108: pPlane4 3
+    3300110: pPlane5 2
+    3300112: pPlane5 3
+    3300114: pPlane6 2
+    3300116: pPlane6 3
+    3300118: pPlane7 2
+    3300120: pPlane7 3
+    3300122: pPlane8 2
+    3300124: pPlane8 3
+    3300126: pPlane9 2
+    3300128: pPlane9 3
+    4300000: pPlane2
+    4300002: pPlane3
+    4300004: pPlane4
+    4300006: pPlane5
+    4300008: pPlane6
+    4300010: pPlane7
+    4300012: pPlane8
+    4300014: pPlane9
+    4300016: pPlane2
+    4300018: pPlane3
+    4300020: pPlane4
+    4300022: pPlane5
+    4300024: pPlane6
+    4300026: pPlane7
+    4300028: pPlane8
+    4300030: pPlane9
+    4300032: eyes
+    4300034: low01
+    4300036: low02
+    4300038: low03
+    4300040: low04
+    4300042: pPlane10
+    4300044: pPlane10
+    4300046: pPlane11
+    4300048: pPlane11
+    4300050: pPlane12
+    4300052: pPlane13
+    4300054: pPlane14
+    4300056: pPlane15
+    4300058: pPlane16
+    4300060: pPlane12
+    4300062: pPlane13
+    4300064: pPlane14
+    4300066: pPlane15
+    4300068: pPlane16
+    4300070: pPlane2
+    4300072: pPlane3
+    4300074: pPlane4
+    4300076: pPlane5
+    4300078: pPlane6
+    4300080: pPlane7
+    4300082: pPlane8
+    4300084: pPlane9
+    4300086: pPlane10
+    4300088: pPlane11
+    4300090: pPlane12
+    4300092: pPlane13
+    4300094: pPlane14
+    4300096: pPlane15
+    4300098: pPlane16
+    4300100: pPlane2
+    4300102: pPlane3
+    4300104: pPlane4
+    4300106: pPlane5
+    4300108: pPlane6
+    4300110: pPlane7
+    4300112: pPlane8
+    4300114: pPlane9
+    4300116: pPlane10
+    4300118: pPlane11
+    4300120: pPlane12
+    4300122: pPlane13
+    4300124: pPlane14
+    4300126: pPlane15
+    4300128: pPlane16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

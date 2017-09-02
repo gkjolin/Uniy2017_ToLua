@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1778499572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 705c0d421b0542b1cb9c6082e5fdb8be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Proj/Toon/Toony-BasicOutline.shader
+Dependencies:
+- E:/tempCode/FireMen_2_2017/Assets/StreamingAssets/pc/assetbundle/assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+- E:/tempCode/FireMen_2_2017/Assets/StreamingAssets/pc/assetbundle/assets_shaders_proj_toon_toony-basic.assetbundle

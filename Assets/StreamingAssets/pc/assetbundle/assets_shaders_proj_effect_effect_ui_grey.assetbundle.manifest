@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 692303359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05ca28f0de9ac5ecacc7ac3582a0617f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Proj/Effect/effect_ui_grey.shader
+Dependencies: []

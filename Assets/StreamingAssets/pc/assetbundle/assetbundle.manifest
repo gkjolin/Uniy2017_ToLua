@@ -1,0 +1,220 @@
+ManifestFileVersion: 0
+CRC: 2943517331
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_scenes_s001.assetbundle
+      Dependencies:
+        Dependency_0: assets_prefabs_modle_guyongbing.assetbundle
+    Info_1:
+      Name: assets_shaders_proj_dissolveshader_textures_clouds.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_shaders_proj_unlit_unlitalphatestculloff.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_shaders_proj_effect_flow.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_shaders_proj_effect_effect_rim.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+    Info_5:
+      Name: assets_shaders_proj_custom_gradientaplha.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_shaders_unity_defaultresourcesextra_mobile_mobile-diffuse.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_mobile_mobile-vertexlit.assetbundle
+    Info_7:
+      Name: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: assets_shaders_proj_custom_outline.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: assets_shaders_unity_defaultresourcesextra_unlit_unlit-normal.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: assets_shaders_unity_defaultresourcesextra_particle-add.assetbundle
+      Dependencies: {}
+    Info_11:
+      Name: assets_shaders_unity_defaultresourcesextra_alphatest-vertexlit.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: assets_shaders_proj_overlay_overlayadditive.assetbundle
+      Dependencies: {}
+    Info_13:
+      Name: assets_shaders_proj_effect_effect_ui_water.assetbundle
+      Dependencies: {}
+    Info_14:
+      Name: assets_shaders_unity_defaultresourcesextra_mobile_mobile-particle-alpha.assetbundle
+      Dependencies: {}
+    Info_15:
+      Name: assets_shaders_proj_effect_effect_foamalpha.assetbundle
+      Dependencies: {}
+    Info_16:
+      Name: assets_shaders_unity_defaultresourcesextra_mobile_mobile-particle-add.assetbundle
+      Dependencies: {}
+    Info_17:
+      Name: assets_shaders_proj_overlay_overlaymultiply.assetbundle
+      Dependencies: {}
+    Info_18:
+      Name: assets_shaders_unity_defaultresourcesextra_unlit_unlit-normal-twoside.assetbundle
+      Dependencies: {}
+    Info_19:
+      Name: assets_shaders_proj_dissolveshader_shader_dissolve_texturcoords.assetbundle
+      Dependencies: {}
+    Info_20:
+      Name: assets_shaders_unity_defaultresourcesextra_alpha-vertexlit.assetbundle
+      Dependencies: {}
+    Info_21:
+      Name: assets_shaders_proj_effect_effect_rim_diffuse.assetbundle
+      Dependencies: {}
+    Info_22:
+      Name: assets_shaders_unity_defaultresourcesextra_alpha-diffuse.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_alpha-vertexlit.assetbundle
+    Info_23:
+      Name: assets_shaders_proj_effect_effect_ui_grey.assetbundle
+      Dependencies: {}
+    Info_24:
+      Name: assets_shaders_proj_toon_toony-lighted.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+        Dependency_1: assets_shaders_unity_defaultresourcesextra_normal-diffuse.assetbundle
+    Info_25:
+      Name: assets_shaders_proj_effect_effect_grow.assetbundle
+      Dependencies: {}
+    Info_26:
+      Name: assets_shaders_unity_defaultresourcesextra_normal-diffuse.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+    Info_27:
+      Name: assets_shaders_unity_defaultresourcesextra_unlit_unlit-alpha.assetbundle
+      Dependencies: {}
+    Info_28:
+      Name: assets_shaders_proj_custom_minimap.assetbundle
+      Dependencies: {}
+    Info_29:
+      Name: assets_shaders_proj_custom_selectobject.assetbundle
+      Dependencies: {}
+    Info_30:
+      Name: assets_shaders_proj_toon_toony-lightedoutline.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+        Dependency_1: assets_shaders_proj_toon_toony-lighted.assetbundle
+        Dependency_2: assets_shaders_unity_defaultresourcesextra_normal-diffuse.assetbundle
+        Dependency_3: assets_shaders_proj_toon_toony-basicoutline.assetbundle
+    Info_31:
+      Name: assets_shaders_proj_effect_effect_foamadd.assetbundle
+      Dependencies: {}
+    Info_32:
+      Name: assets_shaders_proj_custom_terrainblend.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_mobile_mobile-diffuse.assetbundle
+        Dependency_1: assets_shaders_unity_defaultresourcesextra_mobile_mobile-vertexlit.assetbundle
+    Info_33:
+      Name: assets_shaders_unity_defaultresourcesextra_mobile_mobile-vertexlit.assetbundle
+      Dependencies: {}
+    Info_34:
+      Name: assets_shaders_proj_toon_toony-basicoutline.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+        Dependency_1: assets_shaders_proj_toon_toony-basic.assetbundle
+    Info_35:
+      Name: assets_shaders_proj_effect_effect_grow_add.assetbundle
+      Dependencies: {}
+    Info_36:
+      Name: assets_shaders_proj_custom_t4m 4 textures.assetbundle
+      Dependencies: {}
+    Info_37:
+      Name: assets_shaders_unity_defaultresourcesextra_alphatest-diffuse.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_alphatest-vertexlit.assetbundle
+    Info_38:
+      Name: assets_shaders_proj_custom_t4m 3 textures.assetbundle
+      Dependencies: {}
+    Info_39:
+      Name: assets_shaders_proj_effect_effect_grow_alpha.assetbundle
+      Dependencies: {}
+    Info_40:
+      Name: assets_shaders_proj_toon_toony-basic.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_unity_defaultresourcesextra_normal-vertexlit.assetbundle
+    Info_41:
+      Name: assets_shaders_proj_imageeffect_fow.assetbundle
+      Dependencies: {}
+    Info_42:
+      Name: assets_shaders_unity_defaultresourcesextra_unlit_unlit-normal-alpha.assetbundle
+      Dependencies: {}
+    Info_43:
+      Name: assets_shaders_proj_hiteffect_lightshader.assetbundle
+      Dependencies: {}
+    Info_44:
+      Name: assets_shaders_unity_defaultresourcesextra_particle-alpha-blend.assetbundle
+      Dependencies: {}
+    Info_45:
+      Name: assets_shaders_proj_shaderlight.assetbundle
+      Dependencies: {}
+    Info_46:
+      Name: assets_prefabs_ui_ui_root_ex.assetbundle
+      Dependencies: {}
+    Info_47:
+      Name: assets_prefabs_modle_cylinder.assetbundle
+      Dependencies: {}
+    Info_48:
+      Name: assets_prefabs_modle_boss.assetbundle
+      Dependencies:
+        Dependency_0: assets_shaders_proj_toon_toony-basic.assetbundle
+    Info_49:
+      Name: assets_prefabs_ui_panelloading.assetbundle
+      Dependencies: {}
+    Info_50:
+      Name: assets_prefabs_modle_sphere.assetbundle
+      Dependencies: {}
+    Info_51:
+      Name: assets_prefabs_ui_panelcoin.assetbundle
+      Dependencies: {}
+    Info_52:
+      Name: assets_prefabs_modle_cube.assetbundle
+      Dependencies: {}
+    Info_53:
+      Name: assets_prefabs_modle_guyongbing.assetbundle
+      Dependencies: {}
+    Info_54:
+      Name: assets_prefabs_ui_panelsetting.assetbundle
+      Dependencies: {}
+    Info_55:
+      Name: assets_prefabs_ui_panelselect.assetbundle
+      Dependencies: {}
+    Info_56:
+      Name: assets_audios_music_idle_start.assetbundle
+      Dependencies: {}
+    Info_57:
+      Name: assets_audios_sfx_voice_sound_sure.assetbundle
+      Dependencies: {}
+    Info_58:
+      Name: assets_audios_sound_clear.assetbundle
+      Dependencies: {}
+    Info_59:
+      Name: assets_audios_music_scene.assetbundle
+      Dependencies: {}
+    Info_60:
+      Name: assets_audios_sound_bulldozer_come.assetbundle
+      Dependencies: {}
+    Info_61:
+      Name: assets_audios_sfx_voice_sound_change.assetbundle
+      Dependencies: {}
+    Info_62:
+      Name: assets_prefabs_modle_gameobjectpool.assetbundle
+      Dependencies: {}
+    Info_63:
+      Name: assets_shaders_particle alpha blend-z.assetbundle
+      Dependencies: {}
+    Info_64:
+      Name: assets_shaders_texturesimple.assetbundle
+      Dependencies: {}
+    Info_65:
+      Name: assets_movie_idle0.assetbundle
+      Dependencies: {}

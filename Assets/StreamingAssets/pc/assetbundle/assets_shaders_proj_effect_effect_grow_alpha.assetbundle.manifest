@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4124109491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baddaad27caf1287df6680e2fc978f8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Proj/Effect/effect_Grow_alpha.shader
+Dependencies: []

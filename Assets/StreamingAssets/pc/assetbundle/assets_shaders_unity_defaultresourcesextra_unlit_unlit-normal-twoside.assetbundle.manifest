@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3128417252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80a1c82c0f78904490c8b369747739c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Unity/DefaultResourcesExtra/Unlit/Unlit-Normal-TwoSide.shader
+Dependencies: []

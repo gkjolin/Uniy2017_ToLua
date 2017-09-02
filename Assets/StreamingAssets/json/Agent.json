@@ -1,0 +1,858 @@
+[
+  {
+    "Desc": "火妖", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 4, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1001, 
+    "Index": 1, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 15, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 30.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "大火妖", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 2, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1002, 
+    "Index": 2, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 30, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 30.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "烟雾怪", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 2, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1003, 
+    "Index": 3, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 30, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 25.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "愤怒的幽灵", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 2, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1004, 
+    "Index": 4, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 20, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 30.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "蒙面劫匪（近）", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 3, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1005, 
+    "Index": 5, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 15, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 30.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "蒙面劫匪（远）", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 3, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1006, 
+    "Index": 6, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 20, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 10.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "定时炸弹", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 3, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1007, 
+    "Index": 7, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "火炉怪", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 8, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1008, 
+    "Index": 8, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 35, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 5.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "刀疤熊（近）", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 4, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1009, 
+    "Index": 9, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 20, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 30.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "刀疤熊（远）", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 4, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1010, 
+    "Index": 10, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 20, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 10.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "狂暴刀疤熊", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 8, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1011, 
+    "Index": 11, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 40, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 60.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "纵火羊咩咩", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 5, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 1012, 
+    "Index": 12, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 30, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 10.0, 
+    "Type": 1
+  }, 
+  {
+    "Desc": "爆裂牛王", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 30, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2001, 
+    "Index": 13, 
+    "MoveOrProRate": [
+      30.0, 
+      70.0
+    ], 
+    "Name": "Name", 
+    "Score": 500, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 40.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "愤怒的无头骑士", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 30, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2002, 
+    "Index": 14, 
+    "MoveOrProRate": [
+      10.0, 
+      90.0
+    ], 
+    "Name": "Name", 
+    "Score": 500, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 60.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "无头骑士—分身", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 3, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2003, 
+    "Index": 15, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "炸弹狮鹫", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 30, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2004, 
+    "Index": 16, 
+    "MoveOrProRate": [
+      60.0, 
+      40.0
+    ], 
+    "Name": "Name", 
+    "Score": 500, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 20.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "教父", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 60, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2005, 
+    "Index": 17, 
+    "MoveOrProRate": [
+      0.0
+    ], 
+    "Name": "Name", 
+    "Score": 200, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "羊教授—I形态", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2006, 
+    "Index": 18, 
+    "MoveOrProRate": [
+      50.0, 
+      50.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "羊教授—II形态", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 40, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2007, 
+    "Index": 19, 
+    "MoveOrProRate": [
+      50.0, 
+      50.0
+    ], 
+    "Name": "Name", 
+    "Score": 1000, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 25.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "羊教授—镜像", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 5, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 2008, 
+    "Index": 20, 
+    "MoveOrProRate": [
+      20.0, 
+      80.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 2
+  }, 
+  {
+    "Desc": "金币", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30001, 
+    "Index": 21, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 100, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "恢复", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30002, 
+    "Index": 22, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "护盾", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30003, 
+    "Index": 23, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "空中支援", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30004, 
+    "Index": 24, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "超级水炮", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30005, 
+    "Index": 25, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "合体必杀", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 30006, 
+    "Index": 26, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 0.0, 
+    "Type": 3
+  }, 
+  {
+    "Desc": "漂浮的椅子", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 4, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 41001, 
+    "Index": 27, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 5.0, 
+    "Type": 4
+  }, 
+  {
+    "Desc": "漂浮的书", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": 4, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 41002, 
+    "Index": 28, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": 20.0, 
+    "Type": 4
+  }, 
+  {
+    "Desc": "男消防员 永恒", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 50001, 
+    "Index": 29, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 5
+  }, 
+  {
+    "Desc": "男消防员 刘振", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 50002, 
+    "Index": 30, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 5
+  }, 
+  {
+    "Desc": "女消防员 于丹", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 50003, 
+    "Index": 31, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 5
+  }, 
+  {
+    "Desc": "喵", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 61001, 
+    "Index": 32, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 6
+  }, 
+  {
+    "Desc": "迷路的企鹅", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 63001, 
+    "Index": 33, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 6
+  }, 
+  {
+    "Desc": "狐狸", 
+    "DieEffet": [
+      1.0
+    ], 
+    "Effect": [
+      1.0
+    ], 
+    "Health": -1, 
+    "HitEffect": [
+      1.0
+    ], 
+    "Id": 64001, 
+    "Index": 34, 
+    "MoveOrProRate": [
+      -1.0
+    ], 
+    "Name": "Name", 
+    "Score": 0, 
+    "Skills": [
+      1
+    ], 
+    "Speed": -1.0, 
+    "Type": 6
+  }
+]

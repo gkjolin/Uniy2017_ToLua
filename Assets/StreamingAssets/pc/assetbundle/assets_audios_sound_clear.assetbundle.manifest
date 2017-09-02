@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 839781367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ca612deaf7f67d61fa95e0ac30cc20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audios/Sound_Clear.wav
+Dependencies: []

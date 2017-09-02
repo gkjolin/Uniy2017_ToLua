@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1548585724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f65282a14f43617200137bdc00873cef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Unity/DefaultResourcesExtra/AlphaTest-VertexLit.shader
+Dependencies: []

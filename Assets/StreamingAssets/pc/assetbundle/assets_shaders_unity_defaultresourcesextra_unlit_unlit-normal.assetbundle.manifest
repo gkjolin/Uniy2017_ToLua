@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2677746165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c73a704a4be3b4f61f53ea29fe1a091b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf45a693cba34bf6690ae7a121f21f9c
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Unity/DefaultResourcesExtra/Unlit/Unlit-Normal.shader
+Dependencies: []

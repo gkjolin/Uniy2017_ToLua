@@ -1,0 +1,6 @@
+Music_Idle_Start,Assets/Audios/Music_Idle_Start.wav
+Music_Scene,Assets/Audios/Music_Scene.mp3
+SFX_Voice_Sound_Change,Assets/Audios/SFX_Voice_Sound_Change.wav
+SFX_Voice_Sound_Sure,Assets/Audios/SFX_Voice_Sound_Sure.wav
+Sound_Bulldozer_Come,Assets/Audios/Sound_Bulldozer_Come.wav
+Sound_Clear,Assets/Audios/Sound_Clear.wav

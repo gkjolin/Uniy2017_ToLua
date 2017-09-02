@@ -1,0 +1,554 @@
+[
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "火妖自爆", 
+    "HurtValue": [
+      4.0
+    ], 
+    "Id": 1001, 
+    "Index": 1, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 2.0, 
+    "Desc": "大火妖挥拳", 
+    "HurtValue": [
+      1.0
+    ], 
+    "Id": 1002, 
+    "Index": 2, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 2.0, 
+    "Desc": "冲撞", 
+    "HurtValue": [
+      1.0
+    ], 
+    "Id": 1003, 
+    "Index": 3, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 2.0, 
+    "Desc": "砸屏幕", 
+    "HurtValue": [
+      1.0
+    ], 
+    "Id": 1004, 
+    "Index": 4, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 3.0, 
+    "Desc": "扔炸弹", 
+    "HurtValue": [
+      1.0
+    ], 
+    "Id": 1005, 
+    "Index": 5, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 3.0, 
+    "Desc": "铁山靠", 
+    "HurtValue": [
+      3.0
+    ], 
+    "Id": 1006, 
+    "Index": 6, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "射屏幕", 
+    "HurtValue": [
+      2.0
+    ], 
+    "Id": 1007, 
+    "Index": 7, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "火炉喷火", 
+    "HurtValue": [
+      1.0
+    ], 
+    "Id": 1008, 
+    "Index": 8, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "火炉防御", 
+    "HurtValue": null, 
+    "Id": 1009, 
+    "Index": 9, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 5.0, 
+    "Desc": "羊咩咩喷火", 
+    "HurtValue": [
+      2.0
+    ], 
+    "Id": 1010, 
+    "Index": 10, 
+    "SkillName": "name", 
+    "SkillType": 3
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 3.0, 
+    "Desc": "炸弹自爆", 
+    "HurtValue": [
+      4.0
+    ], 
+    "Id": 1011, 
+    "Index": 11, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      2
+    ], 
+    "CallID": [
+      2003
+    ], 
+    "CoolTime": 8.0, 
+    "Desc": "分身", 
+    "HurtValue": null, 
+    "Id": 1012, 
+    "Index": 12, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 12.0, 
+    "Desc": "无敌", 
+    "HurtValue": null, 
+    "Id": 1013, 
+    "Index": 13, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 8.0, 
+    "Desc": "闪现", 
+    "HurtValue": null, 
+    "Id": 1014, 
+    "Index": 14, 
+    "SkillName": "name", 
+    "SkillType": 5
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "劈砍", 
+    "HurtValue": [
+      4.0
+    ], 
+    "Id": 1015, 
+    "Index": 15, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "扔炸弹", 
+    "HurtValue": [
+      1.0, 
+      3.0
+    ], 
+    "Id": 1016, 
+    "Index": 16, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      1, 
+      4
+    ], 
+    "CallID": [
+      1007
+    ], 
+    "CoolTime": 12.0, 
+    "Desc": "布置定时炸弹", 
+    "HurtValue": null, 
+    "Id": 1017, 
+    "Index": 17, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      5
+    ], 
+    "CallID": [
+      1005, 
+      1006
+    ], 
+    "CoolTime": 8.0, 
+    "Desc": "召唤劫匪", 
+    "HurtValue": null, 
+    "Id": 1018, 
+    "Index": 18, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 4.0, 
+    "Desc": "火球攻击", 
+    "HurtValue": [
+      1.0, 
+      3.0
+    ], 
+    "Id": 1019, 
+    "Index": 19, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 8.0, 
+    "Desc": "挥拳", 
+    "HurtValue": [
+      4.0
+    ], 
+    "Id": 1020, 
+    "Index": 20, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 12.0, 
+    "Desc": "过热", 
+    "HurtValue": null, 
+    "Id": 1021, 
+    "Index": 21, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      6
+    ], 
+    "CallID": [
+      1009, 
+      1010
+    ], 
+    "CoolTime": 15.0, 
+    "Desc": "召唤刀疤熊", 
+    "HurtValue": null, 
+    "Id": 1022, 
+    "Index": 22, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 30.0, 
+    "Desc": "冻住不许走", 
+    "HurtValue": null, 
+    "Id": 1023, 
+    "Index": 23, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 15.0, 
+    "Desc": "狂暴指令", 
+    "HurtValue": null, 
+    "Id": 1024, 
+    "Index": 24, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 0.0, 
+    "Desc": "首领的荣光", 
+    "HurtValue": null, 
+    "Id": 1025, 
+    "Index": 25, 
+    "SkillName": "name", 
+    "SkillType": 5
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      1
+    ], 
+    "CallID": [
+      2001, 
+      2002, 
+      2004, 
+      2005
+    ], 
+    "CoolTime": 0.0, 
+    "Desc": "领主召唤", 
+    "HurtValue": null, 
+    "Id": 1026, 
+    "Index": 26, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 5.0, 
+    "Desc": "带电体质", 
+    "HurtValue": null, 
+    "Id": 1027, 
+    "Index": 27, 
+    "SkillName": "name", 
+    "SkillType": 4
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 12.0, 
+    "Desc": "50毫安麻痹点击", 
+    "HurtValue": [
+      4.0
+    ], 
+    "Id": 1028, 
+    "Index": 28, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      3
+    ], 
+    "CallID": [
+      1012
+    ], 
+    "CoolTime": 16.0, 
+    "Desc": "召唤羊咩咩", 
+    "HurtValue": null, 
+    "Id": 1029, 
+    "Index": 29, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      1
+    ], 
+    "CallID": [
+      2008
+    ], 
+    "CoolTime": 30.0, 
+    "Desc": "镜像", 
+    "HurtValue": null, 
+    "Id": 1030, 
+    "Index": 30, 
+    "SkillName": "name", 
+    "SkillType": 2
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 0.0, 
+    "Desc": "隐身", 
+    "HurtValue": null, 
+    "Id": 1031, 
+    "Index": 31, 
+    "SkillName": "name", 
+    "SkillType": 5
+  }, 
+  {
+    "BuffID": 1, 
+    "CallCount": [
+      0
+    ], 
+    "CallID": [
+      -1
+    ], 
+    "CoolTime": 1.0, 
+    "Desc": "EX铁山靠", 
+    "HurtValue": [
+      2.0
+    ], 
+    "Id": 1032, 
+    "Index": 32, 
+    "SkillName": "name", 
+    "SkillType": 1
+  }
+]

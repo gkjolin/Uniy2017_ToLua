@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1153526790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13c7ea86065eded6aa6dbf1050946d38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf0323979d903899ed01cd68e87e660c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/modle/Boss.prefab
+Dependencies:
+- E:/tempCode/FireMen_2_2017/Assets/StreamingAssets/pc/assetbundle/assets_shaders_proj_toon_toony-basic.assetbundle

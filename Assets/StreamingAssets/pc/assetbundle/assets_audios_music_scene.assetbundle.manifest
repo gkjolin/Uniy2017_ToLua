@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1814075111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 042f74b875e4775bdb92d5a4d76a763c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audios/Music_Scene.mp3
+Dependencies: []
